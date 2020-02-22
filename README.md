@@ -1,2 +1,2 @@
 # pyCombo
-Python Commbination of programs
+Python Commbination of programs that Merged with git
